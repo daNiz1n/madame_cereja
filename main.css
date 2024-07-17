@@ -158,14 +158,21 @@ footer {
 
     #about img {
         height: 275px;
+        margin: 0px 0px 30px;
     }
 
     .container h2 {
         text-align: center;
     }
 
+    #about p {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
     .contact-form {
         flex-direction: column;
+        margin-left: 10px;
     }
 
     footer {
